@@ -5,7 +5,6 @@ class App extends React.Component {
       return (
          <div>
             Hello World!!!<br />
-            欢迎来到菜鸟教程学习！！！
          </div>
       );
    }
